@@ -1,0 +1,7 @@
+site_name: Mi blog técnico
+site_url: https://codigoenrama.github.io/
+theme:
+  name: material
+plugins:
+  - search
+  - blog

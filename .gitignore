@@ -1,0 +1,9 @@
+# Build output — generado, nunca al repo
+site/
+
+# uv / Python
+.venv/
+__pycache__/
+
+# Caché de mkdocs-material (social cards, etc.)
+.cache/
